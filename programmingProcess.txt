@@ -1,0 +1,10 @@
+OBJECTIVE
+The main objective is to create an adventure game
+1) We will need to make a story.
+2) We will need to make if statements that takes input from the player.
+3) We will prommpt the player for each option of adventure
+4) We will need to put all of the players inputs into the adventue game.
+5) We will need to print the adventue game for the player to proceed to next option of adventure
+
+PSEUDOCODE
+ADVENTURE_GAME = "I'm going on an adventure through the {} (noun). 
